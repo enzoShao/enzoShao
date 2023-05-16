@@ -13,4 +13,4 @@ I'm a backend software engineer and like to learn something new.
 ![](https://visitor-badge.glitch.me/badge?page_id=enzoShao/enzoShao)
 
 ### Languages and Tools
-![](https://skillicons.dev/icons?i=vscode,linux,gcp,nodejs,express,tailwind,html,css,js,ts,mongodb,postgres,firebase,postman,docker,git,github,linkedin,discord,instagram&theme=light)
+![](https://skillicons.dev/icons?i=vscode,linux,gcp,nodejs,express,tailwind,html,css,js,ts,mongodb,postgres,firebase,postman,git,github,linkedin,discord,instagram&theme=light)
