@@ -9,8 +9,7 @@ I'm a backend software engineer and like to learn something new.
 
 ### Github Statistics
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoShao&show_icons=true&theme=radical)
-
-![](https://visitor-badge.glitch.me/badge?page_id=enzoShao/enzoShao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoShao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 ![](https://skillicons.dev/icons?i=vscode,linux,gcp,nodejs,express,tailwind,html,css,js,ts,mongodb,postgres,firebase,postman,git,github,linkedin,discord,instagram&theme=light)
