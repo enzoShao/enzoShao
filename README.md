@@ -8,9 +8,7 @@ I'm a backend software engineer and like to learn something new.
 - 🌐 My personal website. [Click me.](施工中)
 
 ### Github Statistics
-![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/0-profile-details.svg)
-![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/3-stats.svg)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoShao&show_icons=true&theme=radical)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=enzoShao/enzoShao)
 
