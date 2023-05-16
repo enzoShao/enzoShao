@@ -1,18 +1,18 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoShao)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center"> 👨🏻‍💻 Hello There, I'm Enzo Kao 👋🏻 <img src="https://komarev.com/ghpvc/?username=enzoShao&color=800080" alt="enzoShao" /></h1>
 
-### Hi there 👋
+I'm a backend software engineer and like to learn something new.
+- ✨ Frontend: React.js, Angular
+- 💻 Backend: NodeJS
 
-<!--
-**enzoShao/enzoShao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
+- 🌐 My personal website. [Click me.](施工中)
 
-Here are some ideas to get you started:
+### Github Statistics
+![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/0-profile-details.svg)
+![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/enzoShao/enzoShao/main/profile-summary-card-output/vue/3-stats.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=enzoShao/enzoShao)
+
+### Languages and Tools
+![](https://skillicons.dev/icons?i=vscode,linux,gcp,nodejs,express,tailwind,html,css,js,ts,mongodb,postgres,firebase,postman,docker,git,github,linkedin,discord,instagram&theme=light)
